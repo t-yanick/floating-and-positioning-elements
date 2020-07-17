@@ -1,0 +1,46 @@
+body {
+  width: 80%;
+}
+
+.container-col {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 600px;
+  /* justify-content: center; */
+}
+
+.nav {
+  position: fixed;
+  top: 0;
+  background-color: mistyrose;
+  width: 100%;
+  border-bottom: 1px solid gray;
+}
+
+.text {
+  margin-top: 150px;
+  /* border-top: 100px solid gray; */
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.nav .icon {
+  padding: 10px;
+}
+
+#main-img {
+  width: 700px;
+}
+
+.img {
+  width: 200px;
+}
+
+.btn {
+  padding: 10px;
+}
