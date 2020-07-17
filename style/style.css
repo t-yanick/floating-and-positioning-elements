@@ -10,6 +10,11 @@ body {
   margin: 0 auto;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 .container-col {
   display: flex;
   flex-direction: column;
@@ -23,9 +28,10 @@ body {
   top: 0;
   background-color: mistyrose;
   width: 100%;
-  justify-content: space-between;
+  display: flex;
+  justify-content: space-around;
   border-bottom: 1px solid gray;
-  padding-right: 20px;
+  padding-right: 10px;
 }
 
 .text h1 {
