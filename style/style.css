@@ -180,7 +180,6 @@ main > .author > a {
   display: block;
   position: inherit;
   width: 600px;
-  /* width: 45%; */
   line-height: 27px;
   font-size: 22px;
   font-weight: 300;
@@ -231,7 +230,7 @@ main > .author > a {
   display: flex;
   flex-direction: column;
   position: absolute;
-  right: 0px;
+  right: 0;
   top: 1500px;
   margin-right: 15px;
   width: 260px;
