@@ -24,9 +24,9 @@ Building an HTML and css page that matches the appearance of this page [NYT Spac
 
 ### Jhonatan Sarrazola
 
-- Github: @jssarrazolaa
-- Twitter: [@ElTazoh](https://twitter.com/ElTazoh)
-- Linkedin: [tazoh-yanick](https://linkedin.com/in/tazoh-yanick-5a978764)
+- Github: [@jssarrazolaa](https://github.com/jssarrazolaa)
+- Twitter: [@StevenAlvarez_](https://twitter.com/StevenAlvarez_)
+- Linkedin: [Jhonatan Sarrazola](https://www.linkedin.com/in/jhonatan-sarrazola-6a46a01a5/)
 
 ### Tazoh Yanick Tazoh
 
