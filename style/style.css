@@ -199,13 +199,6 @@ main > .author > a {
   border-top: 1px solid gray;
 }
 
-.stripe {
-  margin: 30px auto;
-  height: 100px;
-  width: 100%;
-  background-color: #f7f7f7;
-}
-
 .titles {
   font-weight: bold;
   font-size: 14px;
